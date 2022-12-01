@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Gabriel-Luis Hernandez"
-title: "Gabriel-Luis Hernandez"
+title: "My life"
 description: "Gabriel-Luis Hernandez' personal and academic information."
 keywords: "Hernandez, Gabriel-Luis, Genomics, Evolution, Climbing, Chess"
 favicon: "/img/icons8-octopus-32.png"
@@ -40,7 +40,7 @@ favicon: "/img/icons8-octopus-32.png"
 ################
 
 black-favicon: "/img/icons8-octopus-32.png"
-logo: "/img/author.png" # leave blank if you don't want a logo
+logo: # leave blank if you don't want a logo
 
 background-img: "../img/intro-bg.jpg"
 
@@ -56,10 +56,13 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Even a poor plan is better than no plan at all. — Mikhail Chigorin"
+  - text: "Genomics, Molecular Evolution"
+  - text: "Pawns; they are the soul of chess - Philidor"
+  - text: "Fire ants, Population Genomics"
+  - text: "Code through the challenge today so you can climb through the pump tomorrow - Thanushan Ravi"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/jetpacktocat.jpeg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
