@@ -42,7 +42,7 @@ favicon: "/img/icons8-octopus-32.png"
 black-favicon: "/img/icons8-octopus-32.png"
 logo: # leave blank if you don't want a logo
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/IMG_7767.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -62,7 +62,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Fire ants, Population Genomics"
   - text: "Code through the challenge today so you can climb through the pump tomorrow - Thanushan Ravi"
 
-me-img: "/img/author.png"
+me-img: "/img/author.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -116,17 +116,17 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
-fb-share: True
+fb-share: False
 twitter-share: True
 linkedin-share: True
-reddit-share: True
-google-plus-share: True
+reddit-share: False
+google-plus-share: False
 tumblr-share: True
 pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "personal-jekyll-theme"
+disqus-shortname: "gabrielluishernandez"
 
 syntax-highlight: True
 
