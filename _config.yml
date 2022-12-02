@@ -62,7 +62,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Fire ants, Population Genomics"
   - text: "Code through the challenge today so you can climb through the pump tomorrow - Thanushan Ravi"
 
-me-img: "/img/author.jpeg"
+me-img: "/img/IMG_7767.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -181,7 +181,7 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Gabriel-Luis Hernandez is an evolutionary biologist based in London. He enjoys bioinformatics, rock climbing, saxophone, and chess "
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/IMG_7767.jpg"
 
 ##################
 # Social Buttons #
@@ -192,7 +192,7 @@ social:
     url: "https://twitter.com/neon_insects"
   - title: "github"
     url: "https://github.com/gabrielluishernandez"
-  - title: "Scholar"
+  - title: "google"
     url: "https://scholar.google.com/citations?user=YvUzWaUAAAAJ&hl=en"
 
 ############
@@ -205,7 +205,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: gabrielluishernandez
 keybase-in-social: False
 keybase-in-footer: False
 
