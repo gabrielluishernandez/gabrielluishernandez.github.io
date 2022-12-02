@@ -62,7 +62,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Fire ants, Population Genomics"
   - text: "Code through the challenge today so you can climb through the pump tomorrow - Thanushan Ravi"
 
-me-img: "/img/author.jpg"
+me-img: "/img/author.jpeg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -160,7 +160,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/IMG-20200219-WA0007.JPG"
+timeline-img: "/img/timeline/author.jpeg"
 
 ###########
 # Contact #
